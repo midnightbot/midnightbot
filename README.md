@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently pursuing MS in CS
 - 🌱 I’m currently learning everything🤣
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:anishadnani00@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Learning and growing everyday
 
