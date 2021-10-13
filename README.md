@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:anishadnani00@gmail.com)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-grey?&logo=Leetcode&logoColor=orange)](https://leetcode.com/anish_adnani/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-black?&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/midnightbot?hr_r=1)
+[![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://play.google.com/store?hl=en_US&gl=US)
 
 - 🔭 I’m currently pursuing MS in CS
 - 🌱 I’m currently learning everything🤣
