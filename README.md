@@ -15,7 +15,7 @@
 - ⚡ Learning and growing everyday
 
 <br/>
-![](https://komarev.com/ghpvc/?username=midnightbot)
+[![](https://komarev.com/ghpvc/?username=midnightbot)]
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
 
