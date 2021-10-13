@@ -14,6 +14,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Learning and growing everyday
 
+<br/>
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=midnightbot)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" />
