@@ -14,11 +14,12 @@
 - 😄 Pronouns: He/Him
 - ⚡ Learning and growing everyday
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" />
+<img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" />
 
 <br />
+<br/>
 
 ### Languages Known
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
