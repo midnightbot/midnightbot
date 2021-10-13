@@ -11,4 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnitghbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
