@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-adnani-b82444174/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:anishadnani00@gmail.com)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-grey?&logo=Leetcode&logoColor=orange)](https://leetcode.com/anish_adnani/)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-grey?&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/midnightbot?hr_r=1)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-black?&logo=Hackerrank&logoColor=green)](https://www.hackerrank.com/midnightbot?hr_r=1)
 
 - 🔭 I’m currently pursuing MS in CS
 - 🌱 I’m currently learning ...
@@ -21,6 +21,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" />
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=midnightbot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
--->
+
