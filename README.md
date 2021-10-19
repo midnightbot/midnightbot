@@ -1,4 +1,4 @@
-<h2 align="center"> Hi I'm Anish Adnani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h2>
+<h2 align="left"> Hi I'm Anish Adnani<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h2>
 
 
 
