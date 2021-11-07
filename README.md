@@ -44,5 +44,5 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.gif" alt="snake"></center>
+  <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
