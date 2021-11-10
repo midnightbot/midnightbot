@@ -47,5 +47,5 @@
   <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<bold>Visitor Count</bold>
+***Visitor Count***
 [![Visitor Count](https://profile-counter.glitch.me/{midnightbot}/count.svg)]
