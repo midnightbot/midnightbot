@@ -48,5 +48,5 @@
 </p>
 
 ### Visitor Count
-<br/>
+
 ![Visitor Count](https://profile-counter.glitch.me/{midnightbot}/count.svg)
