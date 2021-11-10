@@ -47,4 +47,4 @@
   <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/midnightbot/midnightbot)]
+![Visits Badge](https://badges.pufler.dev/visits/midnightbot/midnightbot)
