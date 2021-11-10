@@ -48,4 +48,5 @@
 </p>
 
 ***Visitor Count***
-[![Visitor Count](https://profile-counter.glitch.me/{midnightbot}/count.svg)]
+</br>
+![Visitor Count](https://profile-counter.glitch.me/{midnightbot}/count.svg)
