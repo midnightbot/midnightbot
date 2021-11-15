@@ -27,9 +27,9 @@
 <br/>
  <table>
   <tr>
-    <td>
+    
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
-    </td>
+    
   </tr>
   <tr>
     <td>
