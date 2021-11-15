@@ -17,7 +17,7 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=blue-green" alt="midnightbot" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
 
