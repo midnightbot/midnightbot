@@ -28,7 +28,7 @@
 
  <table>
  <tr>
-   <td colspan="2">
+   <td colspan="2" align="center">
      <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
    </td>
   </tr>
