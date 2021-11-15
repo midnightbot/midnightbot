@@ -72,3 +72,7 @@
 ### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{midnightbot}/count.svg)
+
+table {
+    border-collapse: collapse;
+}
