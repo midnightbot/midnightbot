@@ -17,7 +17,7 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
+<img align = "center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
 
   <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" /> -->
 
@@ -26,11 +26,7 @@
 <br />
 <br/>
  <table>
-  <tr>
-    
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
-    
-  </tr>
+ 
   <tr>
     <td>
  <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=tokyonight" alt="midnightbot" />
