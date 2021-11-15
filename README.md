@@ -28,7 +28,7 @@
  <table>
   <tr>
     <td>
- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=vue-dark" alt="midnightbot" />
+ <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=tokyonight" alt="midnightbot" />
    </td>
     
     
