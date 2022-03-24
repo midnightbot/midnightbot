@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/midnightbot)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anish-adnani-b82444174/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:anishadnani00@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-Gmail-c14438?&logo=Leetcode&logoColor=white)](mailto:anishadnani00@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-c14438?&logo=Leetcode&logoColor=white)](https://leetcode.com/anish_adnani/)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Anish+Adnani&hl=en_US&gl=US)
 
 - 🔭 I’m currently pursuing MS in CS
