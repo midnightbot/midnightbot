@@ -23,6 +23,12 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
 
+## Leetcode Stats
+<br>
+</a>
+<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
+<img height=200 src="https://leetcard.jacoblin.cool/AnshMittal1811?ext=contest&animation=true&theme=wtf" alt="AnshMittal1811's Leetcode stats" />
+</a>
 
 
  <table border = "0">
