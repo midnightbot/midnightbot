@@ -50,7 +50,7 @@
   [![midnightbot's github activity graph](https://activity-graph.herokuapp.com/graph?username=midnightbot&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
 
 ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true)](https://leetcode.com/anish_adnani)]
+[![Leetcode Stats](https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true)](https://leetcode.com/anish_adnani)
   
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
