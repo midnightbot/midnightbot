@@ -53,7 +53,7 @@
 <br>
 </a>
 <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card">
-<img align="center" src="https://leetcard.jacoblin.cool/anish_adnani?ext=contest&animation=true&theme=wtf"/>
+<img align="center" src="https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true"/>
 </a>
   
 ### Languages Used
