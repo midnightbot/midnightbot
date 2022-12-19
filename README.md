@@ -18,21 +18,8 @@
 
 ## Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
 
-
-
-
- <table border = "0">
-  <tr>
-
-    
-    <td>  
-    
-  
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
-     </td>
-      </tr>
-  </table>
   
   <!-- ACTIVITY GRAPH TRACKER -->
   [![midnightbot's github activity graph](https://activity-graph.herokuapp.com/graph?username=midnightbot&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
