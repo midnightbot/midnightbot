@@ -24,12 +24,9 @@
 
  <table border = "0">
   <tr>
-    <td>
- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=tokyonight" alt="midnightbot" />
-   </td>
+
     
-    
-   <td>  
+    <td>  
     
   
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
