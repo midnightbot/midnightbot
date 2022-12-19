@@ -17,10 +17,6 @@
 
 
 ## Stats
-<!-- <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" /> -->
-
-  <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" /> -->
-
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
 
 
