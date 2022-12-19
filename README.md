@@ -23,11 +23,6 @@
 
 
  <table border = "0">
- <tr>
-   <td colspan="2" align="center">
-     <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightbot&layout=compact&hide=html&theme=tokyonight" alt="midnightbot" />
-   </td>
-  </tr>
   <tr>
     <td>
  <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=tokyonight" alt="midnightbot" />
