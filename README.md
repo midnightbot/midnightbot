@@ -9,7 +9,7 @@
 [![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Anish+Adnani&hl=en_US&gl=US)
 
 - 🔭 I’m currently pursuing MS in CS
-- 🌱 I’m currently learning everything🤣
+- 🌱 I’m currently learning everything😄
 - 😄 Pronouns: He/Him
 - ⚡ Learning and growing everyday
 
