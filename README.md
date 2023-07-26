@@ -18,11 +18,7 @@
 
 ## Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
-<! -- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" /> -->
-
-  
-  <!-- ACTIVITY GRAPH TRACKER -->
-  [![midnightbot's github activity graph](https://activity-graph.herokuapp.com/graph?username=midnightbot&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
 
 ## Leetcode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/anish_adnani?ext=heatmap&animation=true)](https://leetcode.com/anish_adnani)
