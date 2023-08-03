@@ -8,14 +8,20 @@
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/anish_adnani/)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Anish+Adnani&hl=en_US&gl=US)
 
-- 🔭 I’m currently pursuing MS in CS
+- 🔭 I’m working at Tesla
 - 🌱 I’m currently learning everything😄
 - 😄 Pronouns: He/Him
 - ⚡ Learning and growing everyday
 
 <br/>
 
-
+## Experience
+ - Machine Learning
+ - Natural Language Processing
+ - Computer Vision
+ - Algorithms
+ - MLOps
+   
 ## Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=midnightbot&theme=tokyonight" />
